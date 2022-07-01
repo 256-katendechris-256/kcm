@@ -1,0 +1,94 @@
+.division1{
+    display: flex;
+    flex-direction: ;
+    position: relative;
+    top: 18px;
+}.division2{
+    display: flex;
+    flex-direction:row ;
+    position: relative;
+    bottom: 18px;
+}
+.sect1{
+    width: 420px;
+    height: 250px;
+    background-color: rgb(105, 105, 252);
+    text-align: center;
+    line-height: 240px;
+    
+}
+.sect1:hover {
+    background-color: snow;
+    transition: 3s;
+
+}
+.sect2{
+    width: 420px;
+    height: 250px;
+    background-color: rgb(110, 218, 226);
+    position: relative;
+    left: 420px;
+    text-align: center;
+    line-height: 240px;
+}
+.sect2:hover {
+    background-color: snow;
+    transition: 3s;
+
+}
+.sect3{
+    width: 420px;
+    height: 250px;
+    background-color: rgb(54, 240, 51);
+    position: relative;
+    left: 420px;
+    text-align: center;
+    line-height: 240px;
+}
+.sect3:hover {
+    background-color: snow;
+    transition: 3s;
+
+}
+.sect4{
+    width: 420px;
+    height: 250px;
+    background-color: rgb(192, 163, 34);
+    text-align: center;
+    line-height: 240px;
+}
+.sect4:hover {
+    background-color: snow;
+    transition: 3s;
+
+}
+.sect5{
+    width: 420px;
+    height: 250px;
+    background-color: orange;
+    position: relative;
+    left: 420px;
+    text-align: center;
+    line-height: 240px;
+}
+.sect5:hover {
+    background-color: snow;
+    transition: 3s;
+
+}
+ p{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+body{
+    background-size: cover;
+    background-color:rgb(219, 215, 215);
+    
+}
